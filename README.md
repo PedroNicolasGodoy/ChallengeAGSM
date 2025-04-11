@@ -59,7 +59,26 @@ Además, la aplicación en Streamlit permite:
 
 ## 📁 Estructura del Proyecto
 
-📁 tu-proyecto/ ├── app.py ├── modelo_con_smote.pkl ├── modelo_sin_smote.pkl ├── X_test_con_smote.pkl ├── y_test_con_smote.pkl ├── X_test_sin_smote.pkl ├── y_test_sin_smote.pkl ├── importancia_modelo_con_smote.csv ├── importancia_modelo_sin_smote.csv ├── dashboard_ventas_AGSM.pbix ├── requirements.txt └── README.md
+agsm-prediccion-ventas/
+│
+├── 📊 power_bi/
+│   └── dashboard_ventas_AGSM.pbix           
+│
+├── 📈 modelos/
+│   ├── modelo_sin_smote.pkl                 
+│   ├── modelo_con_smote.pkl                 
+│   ├── importancia_modelo_sin_smote.csv     
+│   ├── importancia_modelo_con_smote.csv     
+│   ├── X_test_sin_smote.pkl                 
+│   ├── y_test_sin_smote.pkl                 
+│   ├── X_test_con_smote.pkl                 
+│   └── y_test_con_smote.pkl                 
+│
+├── 🧪 app_streamlit/
+│   ├── app.py                               
+│   └── requirements.txt                     
+│
+└── 📄 README.md                              
 
 
 ---
