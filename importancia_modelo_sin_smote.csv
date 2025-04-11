@@ -1,0 +1,340 @@
+Feature,Importance
+Rubro_nan,0.20323658590138216
+Origen_Referido,0.16748127553273873
+Categoría_nan,0.15896112089185835
+Origen_Proactivación,0.12005531012679463
+Tipo de Proceso Comercial_Usado,0.06242860140831355
+Origen_Sin Definir,0.05677527476530811
+Origen_Llamada Recibida,0.04735574795541373
+Origen_Salón de Ventas,0.04601713850919665
+Días,0.02534800604279899
+Tipo de operación_nan,0.016406236292340903
+Tipo de Proceso Comercial_Plan,0.01539442090950156
+Cantidad_Supervisores,0.014004247594488506
+Origen_Consulta WEB,0.010997155938193256
+Tipo de Proceso Comercial_Otro,0.008084190771735075
+Tipo de Proceso Comercial_Cero,0.007977551200552562
+Origen_Instagram_Form,0.006729281914304631
+Tipo de operación_CONTADO,0.004455412240777435
+Dia_Semana,0.003126587242727857
+Rubro_administrativa,0.002269906583302445
+Origen_Whatsapp_vendedor,0.001975241704455157
+Origen_Facebook_Form,0.0018674296983827129
+Rubro_CAMIONERO,0.001249187052645633
+Origen_Bot_Whatsapp,0.0012033927578716322
+Rubro_JUBILADO,0.0011650325661146637
+Rubro_gaseosas,0.0009351201078624963
+Rubro_iscamen,0.000934924450477468
+Rubro_Panadero,0.0009305541667462834
+Categoría_MAYORISTA,0.0009289993475664691
+Rubro_Empresa de seguridad,0.0008891526136488435
+Rubro_chofer de colectivo,0.0008293771940837101
+Categoría_independiente,0.000788412469530752
+Rubro_CONTADOR PUBLICO,0.0007316673227203636
+Rubro_peluquero,0.0007306087311618107
+Rubro_jefe de area,0.0007305648667483954
+Categoría_corredor inmobiliario,0.0005248348857760585
+Origen_Stand,0.0004882190295630968
+Rubro_Market,0.00047081860018232394
+Categoría_1985-11-14 00:00:00,0.0004528265008586427
+Categoría_TRABAJO EN RELACION DEPENDENCIA,0.00041374457111562887
+Rubro_docente,0.00039134774608916
+Categoría_CHOFER DE COLECTIVO,0.0003670300413873894
+Rubro_empleado,0.0003616553903550356
+Rubro_Panaderia,0.00034226372796685155
+Origen_base-externa,0.0003302700154048625
+Rubro_independiente,0.0003022072949229444
+Rubro_medico,0.0002695338945622209
+Rubro_Dueño de playas de estacionamiento,0.000268185390862883
+Categoría_responsable inscripto,0.0002664978661951709
+Categoría_EMPLEADO PROVINCIAL,0.00021028626599845355
+Categoría_Jubilada,0.00018619684917258453
+Categoría_Responsable Inscripto,0.00015104065930501
+Categoría_RESPONSABLE INSCRIPTO,0.00014934466086751188
+Rubro_COMERCIANTE,0.00012887690176245864
+Rubro_INDEPENDIENTE,0.00012840121580899014
+Rubro_jubilado,0.00012154653889596104
+Rubro_PANADERO,0.00011891379092246163
+Rubro_Responsable inscripto,0.00011815398930236479
+Rubro_telefonia,0.00011507734646147647
+Categoría_Chófer,0.000115059642722017
+Categoría_Independiente,8.69221150788005e-05
+Categoría_POLITICO,6.44584229936469e-05
+Rubro_bodega,5.738598613499705e-05
+Tipo de operación_FINANCIADO,5.183787585482641e-06
+Origen_abiertos-melina,0.0
+Origen_Testcall_Form,0.0
+Origen_Taller o Servicio,0.0
+Tipo_Persona,0.0
+Tipo_Empresa,0.0
+Categoría_tranportista,0.0
+Categoría_supervisor,0.0
+Categoría_salud,0.0
+Categoría_retirado,0.0
+Categoría_responsable inscrito,0.0
+Categoría_relacion dependencia,0.0
+Categoría_psicologa,0.0
+Categoría_policia,0.0
+Rubro_COMERCIAL,0.0
+Rubro_CARPINTERO,0.0
+Rubro_CAJERO,0.0
+Rubro_BANQUERO,0.0
+Rubro_Auxiliar Primero,0.0
+Rubro_Autónomo,0.0
+Rubro_Independiente,0.0
+Rubro_IMPRENTA,0.0
+Rubro_GASTRONOMICO,0.0
+Rubro_FERTILIZANTES,0.0
+Rubro_Enfermera,0.0
+Rubro_Empleado Bancario,0.0
+Rubro_Empleado,0.0
+Rubro_ESTATTAL ICAMEN,0.0
+Rubro_EMPLEADO ADMINISTRATIVO,0.0
+Rubro_EMPLEADO,0.0
+Rubro_EMPLEADA,0.0
+Rubro_Dra Psiquiatra,0.0
+Rubro_Docente,0.0
+Rubro_Médica pediatra,0.0
+Rubro_Médica clínica,0.0
+Rubro_Monotributista,0.0
+Rubro_MUSICO,0.0
+Rubro_METALMECANICA,0.0
+Rubro_MECANICO COLECTIVO,0.0
+Rubro_MECANICO,0.0
+Rubro_MARROQUITERIA,0.0
+Rubro_LIDER DE OPERACIONES,0.0
+Rubro_LIC. EN ENFERMERÍA,0.0
+Rubro_LABORATORIO BODEGA,0.0
+Rubro_Jubilada,0.0
+Rubro_JEfa de area,0.0
+Rubro_Administrativo,0.0
+Rubro_Administración,0.0
+Rubro_AUTONOMO,0.0
+Rubro_ALIMENTICIO,0.0
+Rubro_ADMINISTRADORA,0.0
+Rubro_ADMINISTRACION,0.0
+Rubro_0,0.0
+Origen_novendidos-vn-denver-mayo,0.0
+Origen_novendidos-faltagestion-oct,0.0
+Origen_novendidos-faltagestion-ags,0.0
+Origen_no-vendidos-mayo-agosto-mobi,0.0
+Origen_fiat-campañasanluis,0.0
+Rubro_Ing. en planificación,0.0
+Rubro_Relación de dependencia,0.0
+Rubro_Radiologa,0.0
+Rubro_RRHH,0.0
+Rubro_Profesora Nivel Inicial,0.0
+Rubro_Profesor,0.0
+Rubro_Penitenciario,0.0
+Rubro_PRESIDENTE,0.0
+Rubro_POLICIA,0.0
+Rubro_PETROLEO,0.0
+Rubro_ODONTOLOGA,0.0
+Rubro_NUTRICIONISTA,0.0
+Rubro_NEGOCIO,0.0
+Rubro_autonomo,0.0
+Rubro_asesor sancor,0.0
+Rubro_ama de casa,0.0
+Rubro_administrativo,0.0
+Rubro_abogado,0.0
+Rubro_abogada,0.0
+Rubro_Vendedora,0.0
+Rubro_VENTA DE VEHICULOS,0.0
+Rubro_Técnico de impresoras,0.0
+Rubro_TRANSPORTE,0.0
+Rubro_TECNICO QUIMICO,0.0
+Rubro_TECNICO ELECTRICISTA,0.0
+Rubro_Seguridad e higiene,0.0
+Rubro_SEGUROS,0.0
+Rubro_SALUD,0.0
+Rubro_compra y venta de vehículos,0.0
+Rubro_comercio,0.0
+Rubro_comerciante,0.0
+Rubro_colectivero,0.0
+Rubro_cocinero,0.0
+Rubro_chofer micro,0.0
+Rubro_chofer de camion,0.0
+Rubro_chofer,0.0
+Rubro_celadora,0.0
+Rubro_celador,0.0
+Rubro_carointeria,0.0
+Rubro_camionero,0.0
+Rubro_cajera,0.0
+Rubro_bancario,0.0
+Rubro_empleada estatal,0.0
+Rubro_empleada / contadora,0.0
+Rubro_empleada,0.0
+Rubro_electricista,0.0
+Rubro_educacion inicial,0.0
+Rubro_dueña,0.0
+Rubro_docente universitaria,0.0
+Rubro_docente /psicologa,0.0
+Rubro_diseñador industrial,0.0
+Rubro_director,0.0
+Rubro_destileria,0.0
+Rubro_delivery,0.0
+Rubro_corredor inmobiliario,0.0
+Rubro_contador,0.0
+Rubro_construcción,0.0
+Rubro_gerente,0.0
+Rubro_genecologa,0.0
+Rubro_gastronomia,0.0
+Rubro_gasista,0.0
+Rubro_frigorifico,0.0
+Rubro_fabrica,0.0
+Rubro_estudiante,0.0
+Rubro_escribano,0.0
+Rubro_enfermeria,0.0
+Rubro_enfermera,0.0
+Rubro_encargada,0.0
+Rubro_empleado transporte,0.0
+Rubro_empleado publico,0.0
+Rubro_empleado logistica,0.0
+Categoría_medicina,0.0
+Rubro_mecanico,0.0
+Rubro_martillero público,0.0
+Rubro_maestranza,0.0
+Rubro_maestra,0.0
+Rubro_jubilda,0.0
+Rubro_jubilado militar,0.0
+Categoría_mecanico,0.0
+Rubro_jefe de operarios,0.0
+Rubro_ingeniero industrial,0.0
+Rubro_ingeniero electomecanico,0.0
+Rubro_ingeniero,0.0
+Rubro_informatico,0.0
+Categoría_maestra,0.0
+Rubro_guardavidas,0.0
+Rubro_profesional,0.0
+Rubro_productora asesora de seguros,0.0
+Rubro_policia,0.0
+Rubro_playero,0.0
+Rubro_petroleo,0.0
+Rubro_penintenciario,0.0
+Rubro_pastelera,0.0
+Rubro_panificadora,0.0
+Rubro_panadera,0.0
+Rubro_odontologo,0.0
+Rubro_odontologa,0.0
+Rubro_monotributista,0.0
+Categoría_logistica,0.0
+Rubro_mecanico inyeccion,0.0
+Rubro_uber,0.0
+Rubro_transporte,0.0
+Rubro_tranportista,0.0
+Categoría_jubilada,0.0
+Rubro_tecnico en laboratorio,0.0
+Rubro_tecnica administrativa,0.0
+Rubro_tec. sup. en óptica y contactología,0.0
+Rubro_su casa,0.0
+Rubro_servicio de transporte,0.0
+Rubro_salud,0.0
+Rubro_reparacion del automotor,0.0
+Rubro_radiologo,0.0
+Rubro_psocopedagoga,0.0
+Rubro_psicóloga,0.0
+Rubro_profesorsa,0.0
+Rubro_profesor,0.0
+Categoría_Comercio,0.0
+Categoría_Comercial,0.0
+Categoría_inmoviliario,0.0
+Categoría_CONTADOR,0.0
+Categoría_COMERCIAL,0.0
+Categoría_gf,0.0
+Categoría_Autónomo,0.0
+Categoría_AUTONOMO,0.0
+Categoría_ADMINISTRACION,0.0
+Categoría_ABOGADA,0.0
+Categoría_2008,0.0
+Categoría_1989-04-18 00:00:00,0.0
+Categoría_1988-04-07 00:00:00,0.0
+Categoría_profesora,0.0
+Rubro_viajante,0.0
+Rubro_venta de articulos textiles,0.0
+Categoría_JUBILADO,0.0
+Categoría_Ingeniero,0.0
+Categoría_empleado,0.0
+Categoría_INDEPENDIENTE,0.0
+Categoría_Empleado,0.0
+Categoría_ESTUDIANTE,0.0
+Categoría_ESTATAL,0.0
+Categoría_EMPRENDEDORA,0.0
+Rubro_CONTADORA,0.0
+Categoría_EMPLEADO MERCANTIL,0.0
+Categoría_EMPLEADO ESTATAL,0.0
+Categoría_EMPLEADO,0.0
+Categoría_EMPLEADA,0.0
+Categoría_EMPLADO,0.0
+Categoría_Dependencia,0.0
+Categoría_DOCENTE,0.0
+Categoría_Retirado,0.0
+Origen_base-extrerna,0.0
+Categoría_Relación de dependencia,0.0
+Categoría_Relacion en dependencia,0.0
+Origen_base-novendidos-agsm,0.0
+Categoría_Programador,0.0
+Origen_Quiter,0.0
+Categoría_PETROLEO,0.0
+Categoría_Médico,0.0
+Categoría_Municipañ,0.0
+Categoría_Monotributista,0.0
+Categoría_Monotribustista,0.0
+Categoría_Medicina,0.0
+Categoría_MANTENIMIENTO,0.0
+Tipo de Proceso Comercial_nan,0.0
+Categoría_comerciante de ropa  y verduras,0.0
+Categoría_comerciante,0.0
+Categoría_cliente final,0.0
+Categoría_chofer,0.0
+Categoría_cheff,0.0
+Categoría_autonomo,0.0
+Categoría_ama de casa,0.0
+Categoría_administrativo,0.0
+Categoría_administrativa,0.0
+Categoría_VINOS,0.0
+Categoría_UBILAO,0.0
+Categoría_monotributista,0.0
+Categoría_TRABAJO EN DEPENDENCIA,0.0
+Categoría_TRABAJADOR DEPENDIENTE,0.0
+Categoría_Supervisora de Logística,0.0
+Categoría_Salud,0.0
+Categoría_esudiante,0.0
+Categoría_estudiante,0.0
+Categoría_empleado/profesional,0.0
+Categoría_empleado ypf,0.0
+Categoría_empleado transporte,0.0
+Categoría_empleado logistica,0.0
+Categoría_empleado estatal,0.0
+Categoría_empleado administrativo,0.0
+Categoría_profesional,0.0
+Origen_Mail recibido,0.0
+Origen_MARIA AGUSTINA,0.0
+Origen_Losandes,0.0
+Origen_Landing_Page,0.0
+Origen_Landing Page,0.0
+Origen_Ig,0.0
+Origen_Google,0.0
+Origen_faltagestion-sep-denver,0.0
+Rubro_Desarrolador de software,0.0
+Rubro_DOCENTE,0.0
+Rubro_Comercial,0.0
+Rubro_Chófer colectivo,0.0
+Rubro_Chofer de colectivo,0.0
+Rubro_Chofer,0.0
+Categoría_monotributista - C,0.0
+Categoría_plomero,0.0
+Categoría_empleada/ profesional,0.0
+Categoría_empleada estatal,0.0
+Categoría_empleada administrativa,0.0
+Categoría_empleada,0.0
+Categoría_empelado,0.0
+Categoría_docente,0.0
+Categoría_gastronomia,0.0
+Origen_faltagestion-oct-agsm,0.0
+Origen_faltagestion-junio-denver,0.0
+Origen_faltagestion-jun-agsm,0.0
+Origen_faltagestion-jul-agsm,0.0
+Origen_faltagestion-agos-denver,0.0
+Origen_base-subite,0.0
+Origen_base-planes-caidos,0.0
+Categoría_medico,0.0

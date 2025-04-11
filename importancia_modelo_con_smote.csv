@@ -1,0 +1,279 @@
+Feature,Importance
+Días,0.9897823219415245
+Rubro_nan,0.005958728869544526
+Origen_Landing_Page,0.003047720854302767
+Origen_Facebook_Form,0.00047716602579638007
+Cantidad_Supervisores,0.00023292089966138945
+Origen_Instagram_Form,0.00018055468045052137
+Tipo de Proceso Comercial_Otro,0.00014092091992477855
+Tipo de Proceso Comercial_Cero,0.00013182341274157032
+Tipo de Proceso Comercial_Plan,2.4470652431763947e-05
+Origen_Bot_Whatsapp,1.0340482264819111e-05
+Tipo de operación_FINANCIADO,3.1768327426025803e-06
+Tipo de operación_nan,3.1169332755894158e-06
+Origen_Salón de Ventas,2.344507347127797e-06
+Dia_Semana,2.3130463439236973e-06
+Origen_Stand,1.6386406481732366e-06
+Categoría_nan,2.0408270421552555e-07
+Categoría_Comercio,1.4648322486813248e-07
+Categoría_Dependencia,8.647754002146673e-08
+Rubro_independiente,2.9399018934990055e-09
+Rubro_celador,1.3176285389646232e-09
+Categoría_monotributista - C,0.0
+Categoría_plomero/gasista,0.0
+Categoría_policia,0.0
+Categoría_profesional,0.0
+Categoría_profesora,0.0
+Rubro_ADMINISTRACION,0.0
+Rubro_ADMINISTRADORA,0.0
+Rubro_ALIMENTICIO,0.0
+Rubro_AUTONOMO,0.0
+Rubro_Administración,0.0
+Rubro_Administrativa,0.0
+Rubro_Administrativo,0.0
+Rubro_Alimentos,0.0
+Rubro_BANQUERO,0.0
+Rubro_CAJERO,0.0
+Rubro_CARPINTERO,0.0
+Rubro_COMERCIANTE,0.0
+Rubro_CONSTRUCCION,0.0
+Rubro_CONTADORA,0.0
+Rubro_Chofer,0.0
+Rubro_Chofer de colectivo,0.0
+Rubro_Comercial,0.0
+Rubro_DOCENTE,0.0
+Rubro_Desarrolador de software,0.0
+Rubro_Docente,0.0
+Rubro_Dra Psiquiatra,0.0
+Rubro_EMPLEADA,0.0
+Rubro_EMPLEADO,0.0
+Rubro_EMPLEADO ADMINISTRATIVO,0.0
+Rubro_ESTATTAL ICAMEN,0.0
+Rubro_Empleado,0.0
+Rubro_Empleado Bancario,0.0
+Rubro_Empresa de seguridad,0.0
+Rubro_Enfermera,0.0
+Rubro_FERTILIZANTES,0.0
+Rubro_GASTRONOMICO,0.0
+Rubro_IMPRENTA,0.0
+Rubro_INDEPENDIENTE,0.0
+Rubro_Independiente,0.0
+Rubro_Ing. químico,0.0
+Rubro_JEfa de area,0.0
+Rubro_Jubilada,0.0
+Rubro_Jubilado,0.0
+Rubro_LIDER DE OPERACIONES,0.0
+Rubro_Local comercial,0.0
+Rubro_MARROQUITERIA,0.0
+Rubro_MECANICO,0.0
+Rubro_MEDICO,0.0
+Rubro_METALMECANICA,0.0
+Rubro_METALURGICA,0.0
+Rubro_MUSICO,0.0
+Rubro_Monotributista,0.0
+Rubro_Médica clínica,0.0
+Rubro_Médica pediatra,0.0
+Rubro_NUTRICIONISTA,0.0
+Rubro_ODONTOLOGA,0.0
+Rubro_PELUQUERO,0.0
+Rubro_PETROLEO,0.0
+Rubro_POLICIA,0.0
+Rubro_PRESIDENTE,0.0
+Rubro_Penitenciario,0.0
+Rubro_Profesional de la Salud,0.0
+Rubro_Profesor,0.0
+Rubro_Psicologa,0.0
+Rubro_RRHH,0.0
+Rubro_Radiologa,0.0
+Rubro_Relación de dependencia,0.0
+Rubro_SALUD,0.0
+Rubro_SEGURIDAD,0.0
+Rubro_SEGUROS,0.0
+Rubro_Seguridad e higiene,0.0
+Rubro_Técnico de impresoras,0.0
+Rubro_Vendedora,0.0
+Rubro_abogada,0.0
+Rubro_abogado,0.0
+Rubro_administrativa,0.0
+Rubro_administrativo,0.0
+Rubro_alimentos,0.0
+Rubro_asesor sancor,0.0
+Rubro_autonomo,0.0
+Rubro_barberia,0.0
+Rubro_bodega,0.0
+Rubro_cajera,0.0
+Rubro_camionero,0.0
+Rubro_carointeria,0.0
+Rubro_celadora,0.0
+Rubro_chofer,0.0
+Rubro_chofer de camion,0.0
+Rubro_cocinero,0.0
+Rubro_comerciante,0.0
+Rubro_comercio,0.0
+Rubro_compra y venta de vehículos,0.0
+Rubro_construcción,0.0
+Rubro_contadora,0.0
+Rubro_corredor inmobiliario,0.0
+Rubro_delivery,0.0
+Rubro_director,0.0
+Rubro_diseñador industrial,0.0
+Rubro_docente,0.0
+Rubro_docente universitaria,0.0
+Rubro_docente/comerciante,0.0
+Rubro_dueña,0.0
+Rubro_educacion inicial,0.0
+Rubro_electricista,0.0
+Rubro_empleada,0.0
+Rubro_empleada / contadora,0.0
+Rubro_empleada estatal,0.0
+Rubro_empleado,0.0
+Rubro_empleado logistica,0.0
+Rubro_empleado transporte,0.0
+Rubro_encargado,0.0
+Rubro_enfermera,0.0
+Rubro_enfermeria,0.0
+Rubro_enologo,0.0
+Rubro_estudiante,0.0
+Rubro_gasista,0.0
+Rubro_gastronomia,0.0
+Rubro_gerente,0.0
+Rubro_COMERCIAL,0.0
+Rubro_informatico,0.0
+Rubro_ingeniero,0.0
+Rubro_ingeniero electomecanico,0.0
+Rubro_jefe de area,0.0
+Rubro_jubilada,0.0
+Rubro_jubilado,0.0
+Rubro_jubilda,0.0
+Rubro_maestra,0.0
+Rubro_marketing,0.0
+Rubro_martillero público,0.0
+Rubro_mecanico,0.0
+Rubro_mecanico inyeccion,0.0
+Rubro_medico,0.0
+Rubro_monotributista,0.0
+Categoría_relacion dependencia,0.0
+Rubro_odontologo,0.0
+Rubro_panadera,0.0
+Rubro_penintenciario,0.0
+Rubro_playero,0.0
+Rubro_policia,0.0
+Rubro_profesional,0.0
+Rubro_profesor,0.0
+Rubro_profesorsa,0.0
+Rubro_psocopedagoga,0.0
+Rubro_radiologo,0.0
+Rubro_reparacion del automotor,0.0
+Rubro_salud,0.0
+Rubro_servicio de transporte,0.0
+Rubro_tatuador,0.0
+Rubro_tec. sup. en óptica y contactología,0.0
+Rubro_tecnica administrativa,0.0
+Rubro_tecnico,0.0
+Rubro_tecnico en laboratorio,0.0
+Rubro_telefonia,0.0
+Rubro_tranportista,0.0
+Rubro_transporte,0.0
+Rubro_uber,0.0
+Rubro_venta de articulos textiles,0.0
+Rubro_veterinaria,0.0
+Categoría_1989-04-18 00:00:00,0.0
+Categoría_2008,0.0
+Categoría_ABOGADA,0.0
+Categoría_ADMINISTRACION,0.0
+Categoría_AUTONOMO,0.0
+Categoría_Administrativa,0.0
+Categoría_Autónomo,0.0
+Categoría_CHOFER DE COLECTIVO,0.0
+Categoría_COMERCIAL,0.0
+Categoría_CONTADOR,0.0
+Categoría_Comercial,0.0
+Categoría_psicologa,0.0
+Categoría_DOCENTE,0.0
+Origen_Google,0.0
+Categoría_EMPLADO,0.0
+Categoría_EMPLEADA,0.0
+Categoría_EMPLEADO,0.0
+Categoría_EMPLEADO ESTATAL,0.0
+Categoría_EMPLEADO MERCANTIL,0.0
+Categoría_EMPLEADO PROVINCIAL,0.0
+Categoría_EMPRENDEDORA,0.0
+Categoría_ESTATAL,0.0
+Categoría_ESTUDIANTE,0.0
+Categoría_Empleado,0.0
+Categoría_INDEPENDIENTE,0.0
+Categoría_Independiente,0.0
+Categoría_Ingeniero,0.0
+Categoría_JUBILADO,0.0
+Categoría_Jubilada,0.0
+Categoría_Jubilado,0.0
+Categoría_Jubilado de Cartelone,0.0
+Tipo de Proceso Comercial_Usado,0.0
+Categoría_MAYORISTA,0.0
+Categoría_MONOTRIBUSTISTA,0.0
+Categoría_MONOTRIBUTISTA,0.0
+Categoría_Medicina,0.0
+Categoría_Monotribustista,0.0
+Categoría_Monotributista,0.0
+Categoría_Municipañ,0.0
+Categoría_Médico,0.0
+Categoría_PETROLEO,0.0
+Categoría_POLITICO,0.0
+Categoría_PROFESIONAL,0.0
+Categoría_Relación de dependencia,0.0
+Categoría_Retirado,0.0
+Categoría_Salud,0.0
+Categoría_Supervisora de Logística,0.0
+Categoría_TRABAJADOR DEPENDIENTE,0.0
+Categoría_administrativa,0.0
+Categoría_administrativo,0.0
+Categoría_ama de casa,0.0
+Categoría_autonomo,0.0
+Categoría_cheff,0.0
+Categoría_chofer,0.0
+Categoría_comerciante,0.0
+Categoría_comerciante de ropa  y verduras,0.0
+Categoría_docente,0.0
+Categoría_educacion,0.0
+Categoría_empelado,0.0
+Categoría_empleada,0.0
+Categoría_empleada administrativa,0.0
+Categoría_empleada estatal,0.0
+Categoría_empleada/ profesional,0.0
+Categoría_empleado,0.0
+Categoría_empleado administrativo,0.0
+Categoría_MANTENIMIENTO,0.0
+Categoría_empleado transporte,0.0
+Categoría_estudiante,0.0
+Categoría_esudiante,0.0
+Categoría_relacion en dependencia,0.0
+Categoría_responsable inscripto,0.0
+Categoría_responsable inscrito,0.0
+Categoría_retirado,0.0
+Categoría_salud,0.0
+Categoría_servicios,0.0
+Categoría_supervisor,0.0
+Categoría_tranportista,0.0
+Categoría_transporte,0.0
+Tipo_Empresa,0.0
+Tipo_Persona,0.0
+Categoría_independiente,0.0
+Categoría_ingeniero,0.0
+Categoría_inmoviliario,0.0
+Categoría_jubilada,0.0
+Origen_Consulta WEB,0.0
+Categoría_logistica,0.0
+Origen_Landing Page,0.0
+Categoría_mecanico,0.0
+Origen_Llamada Recibida,0.0
+Origen_Mail recibido,0.0
+Origen_Proactivación,0.0
+Origen_Referido,0.0
+Categoría_medico,0.0
+Origen_Sin Definir,0.0
+Categoría_monotributista,0.0
+Origen_Taller o Servicio,0.0
+Origen_Whatsapp_vendedor,0.0
+Origen_base-externa,0.0
+Tipo de operación_CONTADO,0.0
+Categoría_empleado logistica,0.0
