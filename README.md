@@ -38,6 +38,7 @@ El tablero fue desarrollado rápidamente, dentro del tiempo disponible, utilizan
 
 > ⚠️ El archivo `.pbix` se incluye en este repositorio para su revisión.
 
+https://github.com/PedroNicolasGodoy/ChallengeAGSM/blob/main/agsm.pbix
 ---
 
 ## 🧠 Predicción de Ventas (Streamlit)
